@@ -10,7 +10,7 @@ wordpress_sites:
           - www.josedudev.xyz
     local_path: ../forthewinfc.com # path targeting local Bedrock site directory (relative to Ansible root)
     repo: git@github.com:josedu90/forthewinfc.com.git # replace with your Git repo URL
-    repo_subtree_path: forthewinfc.com.# relative path to your Bedrock/WP directory in your repo
+    repo_subtree_path: forthewinfc.com # relative path to your Bedrock/WP directory in your repo
     branch: master
     multisite:
       enabled: false
