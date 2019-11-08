@@ -1,0 +1,2220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: champion\n"
+"POT-Creation-Date: 2015-04-17 12:42+0500\n"
+"PO-Revision-Date: 2015-04-17 12:43+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Users/marchello/Desktop/\n"
+"X-Poedit-SearchPath-0: champion\n"
+
+#: champion/404.php:3
+msgid "404"
+msgstr ""
+
+#: champion/404.php:6
+msgid "THE PAGE YOU ARE LOOKING FOR CANNOT BE FOUND"
+msgstr ""
+
+#: champion/404.php:8
+msgid "You may want to check the following links:"
+msgstr ""
+
+#: champion/404.php:10
+msgid "Homepage"
+msgstr ""
+
+#: champion/404.php:11 champion/inc/widgets/contacts.php:70
+msgid "Contact"
+msgstr ""
+
+#: champion/comments.php:13 champion/comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: champion/comments.php:15 champion/comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: champion/comments.php:16 champion/comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: champion/comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: champion/header.php:57 champion/searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: champion/header.php:113
+msgid "Toggle navigation"
+msgstr ""
+
+#: champion/header.php:120 champion/header.php:122
+#: champion/inc/customizer/register.php:541
+msgid "FC Champion"
+msgstr ""
+
+#: champion/image.php:35
+msgid "Edit"
+msgstr ""
+
+#: champion/image.php:47 champion/partials/content-aside.php:21
+#: champion/partials/content-audio.php:21
+#: champion/partials/content-gallery.php:21
+#: champion/partials/content-image.php:21
+#: champion/partials/content-link.php:21 champion/partials/content-page.php:12
+#: champion/partials/content-page_left_sidebar.php:17
+#: champion/partials/content-page_right_sidebar.php:14
+#: champion/partials/content-quote.php:21
+#: champion/partials/content-video.php:21 champion/partials/content.php:20
+msgid "Pages:"
+msgstr ""
+
+#: champion/image.php:56
+msgid "Previous Image"
+msgstr ""
+
+#: champion/image.php:57
+msgid "Next Image"
+msgstr ""
+
+#: champion/index.php:16 champion/index.php:25 champion/index.php:42
+#: champion/partials/breadcrumbs.php:11
+msgid "Blog"
+msgstr ""
+
+#: champion/search.php:3
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: champion/inc/comment_form.php:11
+#: champion/woocommerce/single-product/tabs/add_review_form.php:16
+msgid "Your Name"
+msgstr ""
+
+#: champion/inc/comment_form.php:13
+#: champion/woocommerce/single-product/tabs/add_review_form.php:18
+msgid "Your Email"
+msgstr ""
+
+#: champion/inc/comment_form.php:15
+msgid "Website"
+msgstr ""
+
+#: champion/inc/comment_form.php:24
+msgid "Comment"
+msgstr ""
+
+#: champion/inc/comment_form.php:32
+msgid "Post Comment"
+msgstr ""
+
+#: champion/inc/custom.php:88 champion/inc/custom.php:124
+msgid "Page Options"
+msgstr ""
+
+#: champion/inc/custom.php:94 champion/inc/custom.php:127
+#: champion/inc/customizer/register.php:604
+msgid "Breadcrumbs"
+msgstr ""
+
+#: champion/inc/custom.php:98 champion/inc/custom.php:131
+#: champion/inc/customizer/register.php:149
+msgid "Default"
+msgstr ""
+
+#: champion/inc/custom.php:99 champion/inc/custom.php:108
+#: champion/inc/custom.php:132 champion/inc/custom.php:141
+#: champion/inc/custom.php:150 champion/inc/customizer/register.php:610
+#: champion/inc/customizer/register.php:628
+#: champion/inc/customizer/register.php:665
+#: champion/inc/customizer/register.php:701
+#: champion/inc/vc/vc_next_match.php:57
+#: champion/inc/vc/vc_upcoming_fixtures.php:57
+msgid "Show"
+msgstr ""
+
+#: champion/inc/custom.php:100 champion/inc/custom.php:109
+#: champion/inc/custom.php:133 champion/inc/custom.php:142
+#: champion/inc/custom.php:151 champion/inc/customizer/register.php:611
+#: champion/inc/customizer/register.php:629
+#: champion/inc/customizer/register.php:664
+#: champion/inc/customizer/register.php:702
+msgid "Hide"
+msgstr ""
+
+#: champion/inc/custom.php:104 champion/inc/custom.php:137
+#: champion/inc/vc/vc_latest_results.php:50
+#: champion/inc/vc/vc_next_match.php:49
+#: champion/inc/vc/vc_products_carousel.php:69
+#: champion/inc/vc/vc_upcoming_fixtures.php:49
+msgid "Title"
+msgstr ""
+
+#: champion/inc/custom.php:113 champion/inc/vc.php:8
+msgid "Full Width"
+msgstr ""
+
+#: champion/inc/custom.php:117
+msgid "No"
+msgstr ""
+
+#: champion/inc/custom.php:118
+msgid "Yes"
+msgstr ""
+
+#: champion/inc/custom.php:146
+msgid "About The Author"
+msgstr ""
+
+#: champion/inc/custom.php:170
+#: champion/woocommerce/single-product/review.php:14
+#, php-format
+msgid "<cite>%s</cite>"
+msgstr ""
+
+#: champion/inc/custom.php:171
+#: champion/woocommerce/single-product/review.php:18
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: champion/inc/custom.php:171
+#: champion/woocommerce/single-product/review.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: champion/inc/custom.php:238
+msgid "Add a review"
+msgstr ""
+
+#: champion/inc/mailchimp.php:10
+msgid "Enter a valid email"
+msgstr ""
+
+#: champion/inc/post_types.class.php:33
+msgid "Add New"
+msgstr ""
+
+#: champion/inc/post_types.class.php:34 champion/inc/post_types.class.php:205
+msgid "Add New "
+msgstr ""
+
+#: champion/inc/post_types.class.php:35 champion/inc/post_types.class.php:203
+msgid "Edit "
+msgstr ""
+
+#: champion/inc/post_types.class.php:36 champion/inc/post_types.class.php:206
+msgid "New "
+msgstr ""
+
+#: champion/inc/post_types.class.php:37 champion/inc/post_types.class.php:200
+msgid "All "
+msgstr ""
+
+#: champion/inc/post_types.class.php:38
+msgid "View "
+msgstr ""
+
+#: champion/inc/post_types.class.php:39 champion/inc/post_types.class.php:199
+msgid "Search "
+msgstr ""
+
+#: champion/inc/post_types.class.php:40 champion/inc/post_types.class.php:41
+msgid "No "
+msgstr ""
+
+#: champion/inc/post_types.class.php:75
+msgid "Options"
+msgstr ""
+
+#: champion/inc/post_types.class.php:201 champion/inc/post_types.class.php:202
+msgid "Parent "
+msgstr ""
+
+#: champion/inc/post_types.class.php:204
+msgid "Update "
+msgstr ""
+
+#: champion/inc/setup.php:34
+msgid "Top primary menu"
+msgstr ""
+
+#: champion/inc/setup.php:35
+msgid "Secondary menu header"
+msgstr ""
+
+#: champion/inc/setup.php:36
+msgid "Footer menu"
+msgstr ""
+
+#: champion/inc/setup.php:52
+msgid "Primary Sidebar"
+msgstr ""
+
+#: champion/inc/setup.php:54
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: champion/inc/setup.php:64
+msgid "Shop Sidebar"
+msgstr ""
+
+#: champion/inc/setup.php:66
+msgid "Shop sidebar that appears on the right."
+msgstr ""
+
+#: champion/inc/setup.php:76
+msgid "Sport Sidebar"
+msgstr ""
+
+#: champion/inc/setup.php:78
+msgid "Sport sidebar that appears on the right."
+msgstr ""
+
+#: champion/inc/setup.php:88
+msgid "Footer area"
+msgstr ""
+
+#: champion/inc/setup.php:90
+msgid "Footer widget area that appears at the bottom."
+msgstr ""
+
+#: champion/inc/sforms.class.php:182
+msgid "Select"
+msgstr ""
+
+#: champion/inc/sforms.class.php:183
+msgid "Delete"
+msgstr ""
+
+#: champion/inc/TGM.class.php:196 champion/inc/tgm.php:131
+msgid "Install Required Plugins"
+msgstr ""
+
+#: champion/inc/TGM.class.php:197 champion/inc/tgm.php:132
+msgid "Install Plugins"
+msgstr ""
+
+#: champion/inc/TGM.class.php:198 champion/inc/tgm.php:133
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: champion/inc/TGM.class.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: champion/inc/TGM.class.php:210 champion/inc/tgm.php:145
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: champion/inc/TGM.class.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: champion/inc/TGM.class.php:212 champion/inc/TGM.class.php:1958
+#: champion/inc/tgm.php:146
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: champion/inc/TGM.class.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: champion/inc/TGM.class.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: champion/inc/TGM.class.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: champion/inc/TGM.class.php:548 champion/inc/TGM.class.php:2175
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1178
+msgid "Private Repository"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1181
+msgid "Pre-Packaged"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1186
+msgid "WordPress Repository"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1189
+msgid "Required"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1189
+msgid "Recommended"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1192
+msgid "Not Installed"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1194
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1296 champion/inc/TGM.class.php:1404
+msgid "Install"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1318 champion/inc/TGM.class.php:1405
+msgid "Activate"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1367
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1383
+msgid "Plugin"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1384
+msgid "Source"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1385
+msgid "Type"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1386
+#: champion/woocommerce/myaccount/my-orders.php:25
+msgid "Status"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1514
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: champion/inc/TGM.class.php:1622
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: champion/inc/TGM.class.php:1941
+msgid "Install package not available."
+msgstr ""
+
+#: champion/inc/TGM.class.php:1942
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1943
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1944
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: champion/inc/TGM.class.php:1945
+msgid "Plugin install failed."
+msgstr ""
+
+#: champion/inc/TGM.class.php:1946
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: champion/inc/TGM.class.php:1957
+msgid "Plugin activation failed."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2071
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2072
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2072 champion/inc/TGM.class.php:2081
+msgid "Show Details"
+msgstr ""
+
+#: champion/inc/TGM.class.php:2072 champion/inc/TGM.class.php:2081
+msgid "Hide Details"
+msgstr ""
+
+#: champion/inc/TGM.class.php:2073
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2074
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: champion/inc/TGM.class.php:2078
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2079
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2080
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2081
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2082
+msgid "All installations have been completed."
+msgstr ""
+
+#: champion/inc/TGM.class.php:2083
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: champion/inc/tgm.php:134
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: champion/inc/tgm.php:147
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: champion/inc/vc.php:11 champion/inc/customizer/register.php:646
+msgid "Enable"
+msgstr ""
+
+#: champion/inc/walker_category.php:11
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: champion/inc/customizer/register.php:6
+msgid "Layout"
+msgstr ""
+
+#: champion/inc/customizer/register.php:17
+msgid "Site Layout"
+msgstr ""
+
+#: champion/inc/customizer/register.php:23
+msgid "Full width"
+msgstr ""
+
+#: champion/inc/customizer/register.php:24
+#: champion/partials/frontend_customizer.php:10
+msgid "Boxed"
+msgstr ""
+
+#: champion/inc/customizer/register.php:35
+msgid "Content Layout"
+msgstr ""
+
+#: champion/inc/customizer/register.php:41
+#: champion/inc/customizer/register.php:60
+#: champion/inc/customizer/register.php:79
+msgid "Sidebar Right"
+msgstr ""
+
+#: champion/inc/customizer/register.php:42
+#: champion/inc/customizer/register.php:61
+#: champion/inc/customizer/register.php:80
+msgid "Sidebar Left"
+msgstr ""
+
+#: champion/inc/customizer/register.php:43
+#: champion/inc/customizer/register.php:62
+#: champion/inc/customizer/register.php:81
+msgid "Fullwidth"
+msgstr ""
+
+#: champion/inc/customizer/register.php:54
+msgid "Blog Layout"
+msgstr ""
+
+#: champion/inc/customizer/register.php:73
+msgid "Shop Layout"
+msgstr ""
+
+#: champion/inc/customizer/register.php:92
+msgid "Background"
+msgstr ""
+
+#: champion/inc/customizer/register.php:106
+#: champion/partials/frontend_customizer.php:17
+msgid "Background Image"
+msgstr ""
+
+#: champion/inc/customizer/register.php:112
+msgid "pattern-01"
+msgstr ""
+
+#: champion/inc/customizer/register.php:113
+msgid "pattern-02"
+msgstr ""
+
+#: champion/inc/customizer/register.php:114
+msgid "pattern-03"
+msgstr ""
+
+#: champion/inc/customizer/register.php:115
+msgid "pattern-04"
+msgstr ""
+
+#: champion/inc/customizer/register.php:116
+msgid "pattern-05"
+msgstr ""
+
+#: champion/inc/customizer/register.php:117
+msgid "background-01-thumb"
+msgstr ""
+
+#: champion/inc/customizer/register.php:118
+msgid "background-02-thumb"
+msgstr ""
+
+#: champion/inc/customizer/register.php:119
+msgid "background-03-thumb"
+msgstr ""
+
+#: champion/inc/customizer/register.php:120
+msgid "background-04-thumb"
+msgstr ""
+
+#: champion/inc/customizer/register.php:121
+msgid "background-05-thumb"
+msgstr ""
+
+#: champion/inc/customizer/register.php:132
+msgid "Custom Background Image"
+msgstr ""
+
+#: champion/inc/customizer/register.php:141
+msgid "Typography"
+msgstr ""
+
+#: champion/inc/customizer/register.php:161
+msgid "Font Family 1"
+msgstr ""
+
+#: champion/inc/customizer/register.php:175
+msgid "Font Family 2"
+msgstr ""
+
+#: champion/inc/customizer/register.php:189
+msgid "Heading"
+msgstr ""
+
+#: champion/inc/customizer/register.php:203
+msgid "Heading Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:216
+msgid "Heading Font Weight"
+msgstr ""
+
+#: champion/inc/customizer/register.php:222
+msgid "Thin"
+msgstr ""
+
+#: champion/inc/customizer/register.php:223
+msgid "Thin Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:224
+msgid "Light"
+msgstr ""
+
+#: champion/inc/customizer/register.php:225
+msgid "Light Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:226
+msgid "Book"
+msgstr ""
+
+#: champion/inc/customizer/register.php:227
+msgid "Book Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:228
+msgid "Regular"
+msgstr ""
+
+#: champion/inc/customizer/register.php:229
+msgid "Regular Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:230
+msgid "Medium"
+msgstr ""
+
+#: champion/inc/customizer/register.php:231
+msgid "Medium Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:232
+msgid "Semi-Bold"
+msgstr ""
+
+#: champion/inc/customizer/register.php:233
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:234
+msgid "Bold"
+msgstr ""
+
+#: champion/inc/customizer/register.php:235
+msgid "Bold Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:236
+msgid "Extra Bold"
+msgstr ""
+
+#: champion/inc/customizer/register.php:237
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:238
+msgid "Ultra Bold"
+msgstr ""
+
+#: champion/inc/customizer/register.php:239
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: champion/inc/customizer/register.php:250
+msgid "H1 Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:263
+msgid "H2 Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:276
+msgid "H3 Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:289
+msgid "H4 Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:302
+msgid "H5 Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:315
+msgid "H6 Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:328
+msgid "Body"
+msgstr ""
+
+#: champion/inc/customizer/register.php:340
+msgid "Body Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:350
+msgid "Colors"
+msgstr ""
+
+#: champion/inc/customizer/register.php:362
+msgid "Base Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:376
+msgid "Background Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:390
+msgid "Background Content Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:404
+msgid "Background Top Nav Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:418
+msgid "Background Footer Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:432
+msgid "Body Font Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:446
+msgid "Copyright Color"
+msgstr ""
+
+#: champion/inc/customizer/register.php:456
+msgid "Header"
+msgstr ""
+
+#: champion/inc/customizer/register.php:467
+msgid "Navbar Position"
+msgstr ""
+
+#: champion/inc/customizer/register.php:473
+msgid "Static Top"
+msgstr ""
+
+#: champion/inc/customizer/register.php:474
+msgid "Fixed Top"
+msgstr ""
+
+#: champion/inc/customizer/register.php:484
+msgid "Header type:"
+msgstr ""
+
+#: champion/inc/customizer/register.php:490
+#: champion/partials/frontend_customizer.php:37
+msgid "Header 1"
+msgstr ""
+
+#: champion/inc/customizer/register.php:491
+#: champion/partials/frontend_customizer.php:38
+msgid "Header 2"
+msgstr ""
+
+#: champion/inc/customizer/register.php:492
+#: champion/partials/frontend_customizer.php:39
+msgid "Header 3"
+msgstr ""
+
+#: champion/inc/customizer/register.php:493
+#: champion/partials/frontend_customizer.php:40
+msgid "Header 4"
+msgstr ""
+
+#: champion/inc/customizer/register.php:494
+#: champion/partials/frontend_customizer.php:41
+msgid "Header 5"
+msgstr ""
+
+#: champion/inc/customizer/register.php:505
+#: champion/inc/customizer/register.php:518
+msgid "Logo"
+msgstr ""
+
+#: champion/inc/customizer/register.php:533
+msgid "Logo Font Size (px)"
+msgstr ""
+
+#: champion/inc/customizer/register.php:546
+msgid "Logo Name"
+msgstr ""
+
+#: champion/inc/customizer/register.php:554
+msgid "Footer"
+msgstr ""
+
+#: champion/inc/customizer/register.php:564
+msgid "Copyright"
+msgstr ""
+
+#: champion/inc/customizer/register.php:577
+msgid "Widget Areas"
+msgstr ""
+
+#: champion/inc/customizer/register.php:583
+msgid "One"
+msgstr ""
+
+#: champion/inc/customizer/register.php:584
+msgid "Two"
+msgstr ""
+
+#: champion/inc/customizer/register.php:585
+msgid "Three"
+msgstr ""
+
+#: champion/inc/customizer/register.php:586
+msgid "Four"
+msgstr ""
+
+#: champion/inc/customizer/register.php:587
+msgid "Disable Widgets"
+msgstr ""
+
+#: champion/inc/customizer/register.php:593
+msgid "Other"
+msgstr ""
+
+#: champion/inc/customizer/register.php:622
+msgid "Preloader"
+msgstr ""
+
+#: champion/inc/customizer/register.php:640
+msgid "Nice Scroll"
+msgstr ""
+
+#: champion/inc/customizer/register.php:647
+msgid "Disable"
+msgstr ""
+
+#: champion/inc/customizer/register.php:658
+msgid "Frontend Customizer"
+msgstr ""
+
+#: champion/inc/customizer/register.php:676
+msgid "Favicon"
+msgstr ""
+
+#: champion/inc/customizer/register.php:695
+msgid "Shop Slider"
+msgstr ""
+
+#: champion/inc/customizer/register.php:716
+msgid "No sliders found"
+msgstr ""
+
+#: champion/inc/customizer/register.php:725
+msgid "Select Shop Slider"
+msgstr ""
+
+#: champion/inc/customizer/register.php:742
+msgid "Social Buttons"
+msgstr ""
+
+#: champion/inc/customizer/register.php:750
+msgid "Facebook"
+msgstr ""
+
+#: champion/inc/customizer/register.php:751
+msgid "Twitter"
+msgstr ""
+
+#: champion/inc/customizer/register.php:752
+#: champion/inc/widgets/instagram.php:12 champion/inc/widgets/instagram.php:89
+msgid "Instagram"
+msgstr ""
+
+#: champion/inc/customizer/register.php:753
+msgid "Youtube"
+msgstr ""
+
+#: champion/inc/customizer/register.php:776
+msgid "Google"
+msgstr ""
+
+#: champion/inc/customizer/register.php:789
+msgid "Google Analytics Script"
+msgstr ""
+
+#: champion/inc/customizer/register.php:802
+msgid "Mailchimp"
+msgstr ""
+
+#: champion/inc/demo/demo_import.php:36
+msgid "Importing Demo Content..."
+msgstr ""
+
+#: champion/inc/demo/demo_import.php:37
+msgid "Duration of demo content importing depends on your server speed."
+msgstr ""
+
+#: champion/inc/demo/demo_import.php:41
+#, php-format
+msgid ""
+"Congratulations and enjoy <a href=\"%s\" target=\"_blank\">your website</a> "
+"now!"
+msgstr ""
+
+#: champion/inc/demo/demo_import.php:49
+msgid "Before installing the demo content, please NOTE:"
+msgstr ""
+
+#: champion/inc/demo/demo_import.php:50
+#, php-format
+msgid ""
+"Install the demo content only on a clean WordPress. Use <a href=\"%s\" "
+"target=\"_blank\">Wordpress Database Reset</a> plugin to clean the current "
+"Theme."
+msgstr ""
+
+#: champion/inc/demo/demo_import.php:51
+msgid ""
+"Remember that you will NOT get the images from live demo due to copyright / "
+"license reason."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/parsers.php:42
+#: champion/inc/demo/wordpress-importer/parsers.php:72
+#: champion/inc/demo/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/parsers.php:84
+#: champion/inc/demo/wordpress-importer/parsers.php:89
+#: champion/inc/demo/wordpress-importer/parsers.php:279
+#: champion/inc/demo/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:134
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:143
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:194
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:198
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:511
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: champion/inc/demo/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: champion/inc/lib/mailchimp/Handling.class.php:37
+msgid "Please Confirm Your Email"
+msgstr ""
+
+#: champion/inc/lib/mailchimp/Handling.class.php:41
+msgid "User with this email is already subscribed"
+msgstr ""
+
+#: champion/inc/lib/mailchimp/Handling.class.php:45
+msgid ""
+"Please go to http://mailchimp.com/, login, go to your list, then Settings, "
+"and put \\\"First Name\\\" and \\\"Last Name\\\" not required."
+msgstr ""
+
+#: champion/inc/lib/mailchimp/Handling.class.php:49
+msgid "Your API Key is Invalid!"
+msgstr ""
+
+#: champion/inc/lib/mailchimp/Handling.class.php:53
+msgid "The list that you provided does not exists!"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:27
+#: champion/inc/vc/vc_next_match.php:27
+#: champion/inc/vc/vc_upcoming_fixtures.php:27
+msgid "All"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:36
+#: champion/inc/vc/vc_latest_results.php:52
+msgid "Latest Results"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:37
+msgid "Place Latest Results"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:42
+#: champion/inc/vc/vc_league_tables.php:39
+#: champion/inc/vc/vc_next_match.php:41
+#: champion/inc/vc/vc_players_carousel.php:54 champion/inc/vc/vc_posts.php:30
+#: champion/inc/vc/vc_products_carousel.php:36
+#: champion/inc/vc/vc_upcoming_fixtures.php:41
+msgid "STM"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:53
+#: champion/inc/vc/vc_next_match.php:52
+#: champion/inc/vc/vc_upcoming_fixtures.php:52
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:58
+#: champion/inc/vc/vc_next_match.php:80
+#: champion/inc/vc/vc_upcoming_fixtures.php:80
+msgid "Pick a team"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:59
+#: champion/inc/vc/vc_next_match.php:58 champion/inc/vc/vc_next_match.php:81
+#: champion/inc/vc/vc_upcoming_fixtures.php:58
+#: champion/inc/vc/vc_upcoming_fixtures.php:81
+msgid "Fixtures by only this team will be displayed"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:141
+#: champion/sportspress/content-event.php:61
+#: champion/sportspress/single-calendar.php:58
+msgid "goal(s)"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:155
+#: champion/sportspress/event-list.php:95
+#: champion/sportspress/single-calendar.php:71
+msgid "read more"
+msgstr ""
+
+#: champion/inc/vc/vc_latest_results.php:171
+#: champion/inc/vc/vc_league_tables.php:218
+#: champion/inc/vc/vc_next_match.php:212
+#: champion/inc/vc/vc_players_carousel.php:183
+#: champion/inc/vc/vc_posts.php:116
+#: champion/inc/vc/vc_products_carousel.php:264
+#: champion/inc/vc/vc_upcoming_fixtures.php:192
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"#\" target=\"_blank\">Visual "
+"Composer</a></strong> plugin to be installed and activated on your site."
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:23
+msgid "Empty"
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:33
+msgid "League Tables"
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:34
+msgid "Place League Table"
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:45
+msgid "Select Table"
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:52
+#: champion/inc/vc/vc_next_match.php:68
+#: champion/inc/vc/vc_upcoming_fixtures.php:68
+msgid "Count"
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:111
+#: champion/sportspress/league-table.php:44
+msgid "Pos"
+msgstr ""
+
+#: champion/inc/vc/vc_league_tables.php:204
+msgid "view all"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:35 champion/inc/vc/vc_next_match.php:51
+msgid "Next Match"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:36
+msgid "Place Next Match"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:61
+#: champion/inc/vc/vc_upcoming_fixtures.php:61
+msgid "Certain number"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:62
+#: champion/inc/vc/vc_upcoming_fixtures.php:62
+msgid "All games"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:159
+#: champion/sportspress/content-event.php:96
+msgid "days"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:160
+#: champion/sportspress/content-event.php:97
+msgid "hrs"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:161
+#: champion/sportspress/content-event.php:98
+msgid "mins"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:162
+#: champion/sportspress/content-event.php:99
+msgid "secs"
+msgstr ""
+
+#: champion/inc/vc/vc_next_match.php:176
+#: champion/inc/vc/vc_upcoming_fixtures.php:155
+msgid "VS"
+msgstr ""
+
+#: champion/inc/vc/vc_players_carousel.php:48
+msgid "Players Carousel"
+msgstr ""
+
+#: champion/inc/vc/vc_players_carousel.php:49
+msgid "Place Players Carousel"
+msgstr ""
+
+#: champion/inc/vc/vc_players_carousel.php:61
+msgid "Team"
+msgstr ""
+
+#: champion/inc/vc/vc_players_carousel.php:69
+msgid "Player Lists"
+msgstr ""
+
+#: champion/inc/vc/vc_posts.php:24
+msgid "Posts"
+msgstr ""
+
+#: champion/inc/vc/vc_posts.php:25
+msgid "Create WordPress loop"
+msgstr ""
+
+#: champion/inc/vc/vc_posts.php:36
+msgid "Content"
+msgstr ""
+
+#: champion/inc/vc/vc_posts.php:43
+msgid "Create WordPress loop."
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:30
+msgid "Products Carousel"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:31
+msgid "Place Products Carousel"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:43
+msgid "Product Selection"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:47
+msgid "Recent Products"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:48
+msgid "Featured Products"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:49
+msgid "Top Rated Products"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:50
+msgid "Products on Sale"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:51
+msgid "Best Selling Products"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:53
+msgid "Select which products should be shown in the slider."
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:58
+msgid "Total Number of Products"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:65
+msgid "Retrieve Ordered By"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:68
+#: champion/woocommerce/myaccount/my-orders.php:24
+msgid "Date"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:70
+msgid "ID"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:71
+msgid "Menu Order"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:72
+msgid "Random"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:75
+msgid ""
+"Select in by which order criterium the products should be retrieved from "
+"WordPress."
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:79
+msgid "Retrieve Order"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:82
+msgid "Descending"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:83
+msgid "Ascending"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:86
+msgid ""
+"Select in which order direction the products should be retrieved from "
+"WordPress."
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:192
+#: champion/woocommerce/content-product.php:54
+#, php-format
+msgid "%s reviews"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:212
+#: champion/woocommerce/loop/add-to-cart.php:15
+msgid "ADD"
+msgstr ""
+
+#: champion/inc/vc/vc_products_carousel.php:239
+msgid "No products could be found."
+msgstr ""
+
+#: champion/inc/vc/vc_upcoming_fixtures.php:35
+#: champion/inc/vc/vc_upcoming_fixtures.php:51
+msgid "Upcoming Fixtures"
+msgstr ""
+
+#: champion/inc/vc/vc_upcoming_fixtures.php:36
+msgid "Place Upcoming Fixtures"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:91 champion/inc/widgets/follow_us.php:92
+#: champion/inc/widgets/instagram.php:126
+#: champion/inc/widgets/mailchimp.php:95
+msgid "Title:"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:95
+msgid "Address:"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:99
+msgid "Phone:"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:103
+msgid "Skype:"
+msgstr ""
+
+#: champion/inc/widgets/contacts.php:107
+msgid "E-mail:"
+msgstr ""
+
+#: champion/inc/widgets/follow_us.php:11 champion/inc/widgets/follow_us.php:81
+msgid "Follow Us"
+msgstr ""
+
+#: champion/inc/widgets/follow_us.php:12
+msgid "Follow Us widget"
+msgstr ""
+
+#: champion/inc/widgets/follow_us.php:97
+msgid ":"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:13
+msgid "Instagram widget"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:51
+msgid "Error Instagram Token"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:55
+msgid "Error Client Id"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:130
+msgid "Number of posts to show:"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:134
+msgid "Cache: (h)"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:138
+msgid "Client Id:"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:142
+msgid "Secret:"
+msgstr ""
+
+#: champion/inc/widgets/instagram.php:146
+msgid "Token:"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:11
+msgid "MailChimp"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:12
+msgid "MailChimp widget"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:37
+msgid "Email"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:40
+msgid "Subscribe"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:68
+msgid "Error API"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:89
+msgid "Newsletter"
+msgstr ""
+
+#: champion/inc/widgets/mailchimp.php:99
+msgid "To setup this widget please follow this <a href=\""
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:5
+#, php-format
+msgid "Category archive \"%s\""
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:6
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:7
+#, php-format
+msgid "Tag \"%s\""
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:8
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:9
+msgid "Page not found"
+msgstr ""
+
+#: champion/partials/breadcrumbs.php:10
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: champion/partials/content-aside.php:11
+#: champion/partials/content-audio.php:11
+#: champion/partials/content-gallery.php:11
+#: champion/partials/content-image.php:11
+#: champion/partials/content-link.php:11
+#: champion/partials/content-quote.php:11
+#: champion/partials/content-video.php:11 champion/partials/content.php:10
+msgid "By"
+msgstr ""
+
+#: champion/partials/content-aside.php:14
+#: champion/partials/content-audio.php:14
+#: champion/partials/content-gallery.php:14
+#: champion/partials/content-image.php:14
+#: champion/partials/content-link.php:14
+#: champion/partials/content-quote.php:14
+#: champion/partials/content-video.php:14 champion/partials/content.php:13
+msgid "<i class=\"fa fa-comment\"></i> Leave a comment"
+msgstr ""
+
+#: champion/partials/content-aside.php:14
+#: champion/partials/content-audio.php:14
+#: champion/partials/content-gallery.php:14
+#: champion/partials/content-image.php:14
+#: champion/partials/content-link.php:14
+#: champion/partials/content-quote.php:14
+#: champion/partials/content-video.php:14 champion/partials/content.php:13
+msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+msgstr ""
+
+#: champion/partials/content-aside.php:14
+#: champion/partials/content-audio.php:14
+#: champion/partials/content-gallery.php:14
+#: champion/partials/content-image.php:14
+#: champion/partials/content-link.php:14
+#: champion/partials/content-quote.php:14
+#: champion/partials/content-video.php:14 champion/partials/content.php:13
+msgid "<i class=\"fa fa-comment\"></i> % Comments"
+msgstr ""
+
+#: champion/partials/content-aside.php:29
+#: champion/partials/content-audio.php:29
+#: champion/partials/content-gallery.php:29
+#: champion/partials/content-image.php:29
+#: champion/partials/content-link.php:29
+#: champion/partials/content-quote.php:29
+#: champion/partials/content-video.php:29 champion/partials/content.php:28
+msgid "ABOUT THE AUTHOR"
+msgstr ""
+
+#: champion/partials/content-aside.php:45
+#: champion/partials/content-audio.php:45
+#: champion/partials/content-gallery.php:45
+#: champion/partials/content-image.php:45
+#: champion/partials/content-link.php:45
+#: champion/partials/content-quote.php:45
+#: champion/partials/content-video.php:45 champion/partials/content.php:44
+#: champion/sportspress/content-calendar.php:11
+#: champion/sportspress/content-event.php:115
+#: champion/sportspress/content-player.php:8
+#: champion/sportspress/content-staff.php:8
+#: champion/sportspress/content-table.php:8
+#: champion/sportspress/content-team.php:12
+msgid "Tags"
+msgstr ""
+
+#: champion/partials/content-aside.php:49
+#: champion/partials/content-audio.php:49
+#: champion/partials/content-gallery.php:49
+#: champion/partials/content-image.php:49
+#: champion/partials/content-link.php:49
+#: champion/partials/content-quote.php:49
+#: champion/partials/content-video.php:49 champion/partials/content.php:48
+msgid "Share Now"
+msgstr ""
+
+#: champion/partials/content-none.php:5
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: champion/partials/content-none.php:9
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: champion/partials/content-none.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:4
+msgid "Styling"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:5
+msgid "Reset all"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:7
+msgid "Overall Layout Styling"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:9
+msgid "Wide"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:12
+msgid "Background Color:"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:25
+msgid "Background Pattern"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:35
+msgid "Header Style"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:43
+msgid "Color"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:45
+msgid "Base Color:"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:51
+msgid "Font Family"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:53
+msgid "Font Family 1:"
+msgstr ""
+
+#: champion/partials/frontend_customizer.php:61
+msgid "Font Family 2:"
+msgstr ""
+
+#: champion/sportspress/event-blocks.php:118
+msgid "View all events"
+msgstr ""
+
+#: champion/sportspress/league-table.php:145
+msgid "View full table"
+msgstr ""
+
+#: champion/sportspress/player-details.php:52
+msgid "Current Teams"
+msgstr ""
+
+#: champion/sportspress/player-details.php:58
+#: champion/sportspress/staff-details.php:30
+msgid "Nationality"
+msgstr ""
+
+#: champion/sportspress/player-details.php:64
+msgid "Squad Number"
+msgstr ""
+
+#: champion/sportspress/player-details.php:78
+msgid "Position"
+msgstr ""
+
+#: champion/sportspress/player-gallery.php:161
+msgid "View all players"
+msgstr ""
+
+#: champion/sportspress/single-calendar.php:35
+msgid "latest results"
+msgstr ""
+
+#: champion/sportspress/staff-details.php:34
+msgid "Current Team"
+msgstr ""
+
+#: champion/sportspress/staff-details.php:41
+msgid "Past Teams"
+msgstr ""
+
+#: champion/woocommerce/single-product-reviews.php:17
+msgid "Reviews"
+msgstr ""
+
+#: champion/woocommerce/single-product-reviews.php:38
+msgid "There are no reviews yet."
+msgstr ""
+
+#: champion/woocommerce/cart/cart-empty.php:9
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: champion/woocommerce/cart/cart-empty.php:13
+msgid "Return To Shop"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:22
+msgid "Shipping and Handling"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:76
+#: champion/woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: champion/woocommerce/cart/cart-shipping.php:97
+msgid "Shipping"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-totals.php:11
+msgid "Cart Totals"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-totals.php:16
+msgid "Cart Subtotal"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-totals.php:63
+msgid "Order Total"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-totals.php:75
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: champion/woocommerce/cart/cart-totals.php:78
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:20
+msgid "Product"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:21
+msgid "Price"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:22
+msgid "Quantity"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:23
+#: champion/woocommerce/myaccount/my-orders.php:26
+msgid "Total"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:40
+msgid "Remove this item"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:67
+msgid "Available on backorder"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:112
+msgid "Coupon"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:112
+#: champion/woocommerce/checkout/form-coupon.php:15
+msgid "Coupon code"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:112
+#: champion/woocommerce/checkout/form-coupon.php:19
+msgid "Apply Coupon"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:119
+msgid "Update Cart"
+msgstr ""
+
+#: champion/woocommerce/cart/cart.php:119
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:13
+msgid "Calculate Shipping"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:19
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:36
+#: champion/woocommerce/cart/shipping-calculator.php:42
+#: champion/woocommerce/cart/shipping-calculator.php:54
+msgid "State / county"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:43
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:63
+msgid "City"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:71
+msgid "Postcode / Zip"
+msgstr ""
+
+#: champion/woocommerce/cart/shipping-calculator.php:76
+msgid "Update Totals"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-checkout.php:17
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: champion/woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-coupon.php:9
+msgid "Have a coupon?"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-coupon.php:9
+msgid "Click here to enter your code"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-login.php:7
+msgid "Returning customer?"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-login.php:8
+msgid "Click here to login"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-login.php:13
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: champion/woocommerce/checkout/form-shipping.php:21
+msgid "Shipping Adress"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-shipping.php:23
+msgid "Ship to a different address?"
+msgstr ""
+
+#: champion/woocommerce/checkout/form-shipping.php:47
+#: champion/woocommerce/single-product/tabs/additional-information.php:10
+msgid "Additional Information"
+msgstr ""
+
+#: champion/woocommerce/global/form-login.php:15
+msgid "Username or email"
+msgstr ""
+
+#: champion/woocommerce/global/form-login.php:18
+#: champion/woocommerce/myaccount/form-login.php:34
+#: champion/woocommerce/myaccount/form-login.php:82
+msgid "Password"
+msgstr ""
+
+#: champion/woocommerce/global/form-login.php:26
+#: champion/woocommerce/myaccount/form-login.php:24
+#: champion/woocommerce/myaccount/form-login.php:41
+msgid "Login"
+msgstr ""
+
+#: champion/woocommerce/global/form-login.php:30
+#: champion/woocommerce/myaccount/form-login.php:44
+msgid "Remember me"
+msgstr ""
+
+#: champion/woocommerce/global/form-login.php:32
+#: champion/woocommerce/myaccount/form-login.php:46
+msgid "Lost your password?"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:19
+msgid "First name"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:23
+msgid "Last name"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:27
+#: champion/woocommerce/myaccount/form-login.php:76
+msgid "Email address"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:32
+msgid "Password Change"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:35
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:39
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:43
+msgid "Confirm New Password"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-account.php:53
+msgid "Save changes"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-address.php:9
+msgid "Billing Address"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-address.php:9
+msgid "Shipping Address"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-edit-address.php:41
+msgid "Save Address"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-login.php:31
+msgid "Username or email address"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-login.php:61
+#: champion/woocommerce/myaccount/form-login.php:95
+msgid "Register"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-login.php:70
+msgid "Username"
+msgstr ""
+
+#: champion/woocommerce/myaccount/form-login.php:88
+msgid "Anti-spam"
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-account.php:16
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-account.php:21
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-orders.php:17
+msgid "Recent Orders"
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-orders.php:23
+msgid "Order"
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-orders.php:59
+msgid "Pay"
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-orders.php:66
+msgid "Cancel"
+msgstr ""
+
+#: champion/woocommerce/myaccount/my-orders.php:72
+msgid "View"
+msgstr ""
+
+#: champion/woocommerce/myaccount/view-order.php:14
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: champion/woocommerce/myaccount/view-order.php:18
+msgid "Order Updates"
+msgstr ""
+
+#: champion/woocommerce/myaccount/view-order.php:24
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: champion/woocommerce/single-product/product-image.php:31
+msgid "Placeholder"
+msgstr ""
+
+#: champion/woocommerce/single-product/product-image.php:38
+msgid "Sale!"
+msgstr ""
+
+#: champion/woocommerce/single-product/rating.php:17
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: champion/woocommerce/single-product/rating.php:19
+#: champion/woocommerce/single-product/review.php:22
+msgid "out of 5"
+msgstr ""
+
+#: champion/woocommerce/single-product/review.php:16
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: champion/woocommerce/single-product/review.php:21
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:1
+#, php-format
+msgid "<span>Add your review</span> for %s"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:20
+msgid "Submit"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:25
+msgid "Your Review *"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:28
+msgid "Your Rating"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:29
+msgid "Rate&hellip;"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:30
+msgid "Perfect"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:31
+msgid "Good"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:32
+msgid "Average"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:33
+msgid "Not that bad"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:34
+msgid "Very Poor"
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/add_review_form.php:45
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: champion/woocommerce/single-product/tabs/description.php:7
+msgid "Product Description"
+msgstr ""

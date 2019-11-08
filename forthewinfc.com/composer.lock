@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f12ae7347b6bc01a00f2f7efa8bf7397",
+    "content-hash": "da70cf20893c465ec3a18d8c0ae75598",
     "packages": [
         {
             "name": "composer/installers",
@@ -129,6 +129,123 @@
             "time": "2019-08-12T15:00:31+00:00"
         },
         {
+            "name": "josedu90/champion",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/champion/archive/master.zip"
+            },
+            "type": "wordpress-theme"
+        },
+        {
+            "name": "josedu90/champion-child",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/champion-child/archive/master.zip"
+            },
+            "type": "wordpress-theme"
+        },
+        {
+            "name": "josedu90/ivan-visual-composer",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/ivan-visual-composer/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/js_composer",
+            "version": "5.7",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/js_composer/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/mega_main_menu",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/mega_main_menu/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/revslider",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/revslider/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/sportspress-pro",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/sportspress-pro/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/stm-gdpr-compliance",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/stm-gdpr-compliance/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/tinymce-advanced",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/tinymce-advanced/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/ts-visual-composer-extend",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/ts-visual-composer-extend/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/woocommerce",
+            "version": "3.5.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/woocommerce/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/wordpress-importer",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/wordpress-importer/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/wp-mailgun-smtp",
+            "version": "3.6.15",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/wp-mailgun-smtp/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
             "name": "oscarotero/env",
             "version": "v1.2.0",
             "source": {
@@ -173,28 +290,28 @@
         },
         {
             "name": "phpoption/phpoption",
-            "version": "1.5.0",
+            "version": "1.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmittjoh/php-option.git",
-                "reference": "94e644f7d2051a5f0fcf77d81605f152eecff0ed"
+                "reference": "2ba2586380f8d2b44ad1b9feb61c371020b27793"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/94e644f7d2051a5f0fcf77d81605f152eecff0ed",
-                "reference": "94e644f7d2051a5f0fcf77d81605f152eecff0ed",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/2ba2586380f8d2b44ad1b9feb61c371020b27793",
+                "reference": "2ba2586380f8d2b44ad1b9feb61c371020b27793",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.7.*"
+                "phpunit/phpunit": "^4.7|^5.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.3-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -204,7 +321,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "Apache2"
+                "Apache-2.0"
             ],
             "authors": [
                 {
@@ -219,7 +336,7 @@
                 "php",
                 "type"
             ],
-            "time": "2015-07-25T16:39:46+00:00"
+            "time": "2019-11-06T22:27:00+00:00"
         },
         {
             "name": "roots/wordpress",
@@ -231,7 +348,8 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.2.3"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.2.3",
+                "reference": "5.2.3"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -414,16 +532,16 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.11.0",
+            "version": "v1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "82ebae02209c21113908c229e9883c419720738a"
+                "reference": "550ebaac289296ce228a706d0867afc34687e3f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/82ebae02209c21113908c229e9883c419720738a",
-                "reference": "82ebae02209c21113908c229e9883c419720738a",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/550ebaac289296ce228a706d0867afc34687e3f4",
+                "reference": "550ebaac289296ce228a706d0867afc34687e3f4",
                 "shasum": ""
             },
             "require": {
@@ -435,7 +553,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.11-dev"
+                    "dev-master": "1.12-dev"
                 }
             },
             "autoload": {
@@ -452,12 +570,12 @@
             ],
             "authors": [
                 {
-                    "name": "Symfony Community",
-                    "homepage": "https://symfony.com/contributors"
-                },
-                {
                     "name": "Gert de Pagter",
                     "email": "BackEndTea@gmail.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
                 }
             ],
             "description": "Symfony polyfill for ctype functions",
@@ -468,20 +586,20 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-08-06T08:03:45+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v3.4.0",
+            "version": "v3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "5084b23845c24dbff8ac6c204290c341e4776c92"
+                "reference": "1bdf24f065975594f6a117f0f1f6cabf1333b156"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/5084b23845c24dbff8ac6c204290c341e4776c92",
-                "reference": "5084b23845c24dbff8ac6c204290c341e4776c92",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/1bdf24f065975594f6a117f0f1f6cabf1333b156",
+                "reference": "1bdf24f065975594f6a117f0f1f6cabf1333b156",
                 "shasum": ""
             },
             "require": {
@@ -490,12 +608,12 @@
                 "symfony/polyfill-ctype": "^1.9"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8.35 || ^5.0 || ^6.0"
+                "phpunit/phpunit": "^4.8.35 || ^5.0 || ^6.0 || ^7.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.4-dev"
+                    "dev-master": "3.6-dev"
                 }
             },
             "autoload": {
@@ -509,9 +627,14 @@
             ],
             "authors": [
                 {
+                    "name": "Graham Campbell",
+                    "email": "graham@alt-three.com",
+                    "homepage": "https://gjcampbell.co.uk/"
+                },
+                {
                     "name": "Vance Lucas",
                     "email": "vance@vancelucas.com",
-                    "homepage": "http://www.vancelucas.com"
+                    "homepage": "https://vancelucas.com/"
                 }
             ],
             "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
@@ -520,7 +643,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2019-06-15T22:40:20+00:00"
+            "time": "2019-09-10T21:37:39+00:00"
         }
     ],
     "packages-dev": [
@@ -530,12 +653,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "ea693fa060702164985511acc3ceb5389c9ac761"
+                "reference": "15eb463aecc9e315b89b744ee0feb0bb1b4c6787"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ea693fa060702164985511acc3ceb5389c9ac761",
-                "reference": "ea693fa060702164985511acc3ceb5389c9ac761",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/15eb463aecc9e315b89b744ee0feb0bb1b4c6787",
+                "reference": "15eb463aecc9e315b89b744ee0feb0bb1b4c6787",
                 "shasum": ""
             },
             "conflict": {
@@ -558,7 +681,7 @@
                 "contao/core": ">=2,<3.5.39",
                 "contao/core-bundle": ">=4,<4.4.39|>=4.5,<4.7.5",
                 "contao/listing-bundle": ">=4,<4.4.8",
-                "contao/newsletter-bundle": ">=4,<4.1",
+                "datadog/dd-trace": ">=0.30,<0.30.2",
                 "david-garcia/phpwhois": "<=4.3.1",
                 "doctrine/annotations": ">=1,<1.2.7",
                 "doctrine/cache": ">=1,<1.3.2|>=1.4,<1.4.2",
@@ -601,9 +724,9 @@
                 "laravel/framework": ">=4,<4.0.99|>=4.1,<=4.1.31|>=4.2,<=4.2.22|>=5,<=5.0.35|>=5.1,<=5.1.46|>=5.2,<=5.2.45|>=5.3,<=5.3.31|>=5.4,<=5.4.36|>=5.5,<5.5.42|>=5.6,<5.6.30",
                 "laravel/socialite": ">=1,<1.0.99|>=2,<2.0.10",
                 "league/commonmark": "<0.18.3",
-                "magento/magento1ce": "<1.9.4.1",
-                "magento/magento1ee": ">=1.9,<1.14.4.1",
-                "magento/product-community-edition": ">=2,<2.2.8|>=2.3,<2.3.1",
+                "magento/magento1ce": "<1.9.4.3",
+                "magento/magento1ee": ">=1,<1.14.4.3",
+                "magento/product-community-edition": ">=2,<2.2.10|>=2.3,<2.3.3",
                 "monolog/monolog": ">=1.8,<1.12",
                 "namshi/jose": "<2.2",
                 "onelogin/php-saml": "<2.10.4",
@@ -624,7 +747,7 @@
                 "propel/propel": ">=2-alpha.1,<=2-alpha.7",
                 "propel/propel1": ">=1,<=1.7.1",
                 "pusher/pusher-php-server": "<2.2.1",
-                "robrichards/xmlseclibs": ">=1,<3.0.2",
+                "robrichards/xmlseclibs": ">=1,<3.0.4",
                 "sabre/dav": ">=1.6,<1.6.99|>=1.7,<1.7.11|>=1.8,<1.8.9",
                 "sensiolabs/connect": "<4.2.3",
                 "serluck/phpwhois": "<=4.2.6",
@@ -646,6 +769,7 @@
                 "spoonity/tcpdf": "<6.2.22",
                 "squizlabs/php_codesniffer": ">=1,<2.8.1|>=3,<3.0.1",
                 "stormpath/sdk": ">=0,<9.9.99",
+                "studio-42/elfinder": "<2.1.48",
                 "swiftmailer/swiftmailer": ">=4,<5.4.5",
                 "sylius/admin-bundle": ">=1,<1.0.17|>=1.1,<1.1.9|>=1.2,<1.2.2",
                 "sylius/grid": ">=1,<1.1.19|>=1.2,<1.2.18|>=1.3,<1.3.13|>=1.4,<1.4.5|>=1.5,<1.5.1",
@@ -732,25 +856,25 @@
             "authors": [
                 {
                     "name": "Marco Pivetta",
-                    "role": "maintainer",
-                    "email": "ocramius@gmail.com"
+                    "email": "ocramius@gmail.com",
+                    "role": "maintainer"
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2019-07-18T15:17:58+00:00"
+            "time": "2019-11-07T10:12:47+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.4.2",
+            "version": "3.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "b8a7362af1cc1aadb5bd36c3defc4dda2cf5f0a8"
+                "reference": "65b12cdeaaa6cd276d4c3033a95b9b88b12701e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/b8a7362af1cc1aadb5bd36c3defc4dda2cf5f0a8",
-                "reference": "b8a7362af1cc1aadb5bd36c3defc4dda2cf5f0a8",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/65b12cdeaaa6cd276d4c3033a95b9b88b12701e7",
+                "reference": "65b12cdeaaa6cd276d4c3033a95b9b88b12701e7",
                 "shasum": ""
             },
             "require": {
@@ -788,7 +912,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2019-04-10T23:49:02+00:00"
+            "time": "2019-10-28T04:36:32+00:00"
         }
     ],
     "aliases": [],

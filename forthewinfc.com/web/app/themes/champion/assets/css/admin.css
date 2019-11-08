@@ -1,0 +1,52 @@
+.match_params{
+	position: relative;
+}
+
+.match_params i.fa{
+	margin: 0 5px 0 0;
+	font-size: 16px;
+	width: 20px;
+	text-align: center;
+}
+
+.match_params label{
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 10px 0 0;
+}
+
+.match_params > tr > td{
+	padding: 5px;
+}
+
+.match_params > tr > td:first-child{
+	padding-left: 0;
+}
+
+.match_result table{
+	margin: 0;
+	padding: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+	float: left;
+}
+
+.match_result td, .match_result th{
+	border: 1px solid #d6d6d6;
+	padding: 5px;
+	font-size: 14px;
+}
+
+.match_result .remove_goal{
+	width: 20px;
+	text-align: center;
+}
+
+.match_result .remove_goal .fa{
+	width: auto;
+	margin: 0;
+}
+
+.match_result .result_time{
+	width: 50px;
+}
