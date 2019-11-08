@@ -246,7 +246,7 @@
     "oscarotero/env": "^1.2.0",
     "roots/wordpress": "5.2.3",
     "roots/wp-config": "1.0.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
     "josedu90/champion": "*",
     "josedu90/champion-child": "*",
     "josedu90/woocommerce": "*",
