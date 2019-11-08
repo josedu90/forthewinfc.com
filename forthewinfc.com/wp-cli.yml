@@ -7,7 +7,7 @@ path: web/wp
   ssh: vagrant@staging.josedudev.xyz/srv/www/staging.josedudev.xyz/current
 
 @production:
-  ssh: web@josedudev.xyz/srv/www/forthewinfc.com/current
+  ssh: web@167.172.230.52/srv/www/forthewinfc.com/current
 
 @all:
  - @development
