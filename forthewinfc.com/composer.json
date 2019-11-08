@@ -1,0 +1,292 @@
+{
+  "name": "roots/bedrock",
+  "type": "project",
+  "license": "MIT",
+  "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "homepage": "https://roots.io/bedrock/",
+  "authors": [
+    {
+      "name": "Scott Walkinshaw",
+      "email": "scott.walkinshaw@gmail.com",
+      "homepage": "https://github.com/swalkinshaw"
+    },
+    {
+      "name": "Ben Word",
+      "email": "ben@benword.com",
+      "homepage": "https://github.com/retlehs"
+    }
+  ],
+  "keywords": [
+    "bedrock", "composer", "roots", "wordpress", "wp", "wp-config"
+  ],
+  "support": {
+    "issues": "https://github.com/roots/bedrock/issues",
+    "forum": "https://discourse.roots.io/category/bedrock"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    },
+
+
+      {
+     "type": "package",
+     "package":{
+      "name": "josedu90/js_composer",
+      "type": "wordpress-plugin",
+      "version":"5.7",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/js_composer/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+    {
+     "type": "package",
+     "package":{
+      "name": "josedu90/woocommerce",
+      "type": "wordpress-plugin",
+      "version":"3.5.6",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/woocommerce/archive/master.zip"
+
+      }
+     }
+     
+   },
+   
+
+
+         {
+       "type": "package",
+       "package":{
+        "name": "josedu90/wp-mailgun-smtp",
+        "type": "wordpress-plugin",
+        "version":"3.6.15",
+        "dist":{
+        "type": "zip",
+        "url": "https://github.com/josedu90/wp-mailgun-smtp/archive/master.zip"
+
+      }
+     }
+     
+   },
+   
+
+
+         {
+     "type": "package",
+     "package":{
+      "name": "josedu90/champion",
+      "type": "wordpress-theme",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/champion/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+            {
+     "type": "package",
+     "package":{
+      "name": "josedu90/champion-child",
+      "type": "wordpress-theme",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/champion-child/archive/master.zip"
+
+      }
+     }
+     
+   },
+               {
+     "type": "package",
+     "package":{
+      "name": "josedu90/revslider",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/revslider/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+               {
+     "type": "package",
+     "package":{
+      "name": "josedu90/ivan-visual-composer",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/ivan-visual-composer/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+                  {
+     "type": "package",
+     "package":{
+      "name": "josedu90/ts-visual-composer-extend",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/ts-visual-composer-extend/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+                  {
+     "type": "package",
+     "package":{
+      "name": "josedu90/stm-gdpr-compliance",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/stm-gdpr-compliance/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+                  {
+     "type": "package",
+     "package":{
+      "name": "josedu90/tinymce-advanced",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/tinymce-advanced/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+                  {
+     "type": "package",
+     "package":{
+      "name": "josedu90/sportspress-pro",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/sportspress-pro/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+                  {
+     "type": "package",
+     "package":{
+      "name": "josedu90/mega_main_menu",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/mega_main_menu/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+
+
+
+
+
+
+
+      {
+     "type": "package",
+     "package":{
+      "name": "josedu90/wordpress-importer",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/wordpress-importer/archive/master.zip"
+
+      }
+     }
+     
+   }
+  
+
+
+
+  ],
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "^1.7",
+    "vlucas/phpdotenv": "^3.4.0",
+    "oscarotero/env": "^1.2.0",
+    "roots/wordpress": "5.2.3",
+    "roots/wp-config": "1.0.0",
+    "roots/wp-password-bcrypt": "1.0.0"
+    "josedu90/champion": "*",
+    "josedu90/champion-child": "*",
+    "josedu90/woocommerce": "*",
+    "josedu90/wordpress-importer": "*",
+    "josedu90/wp-mailgun-smtp": "*",
+    "josedu90/ivan-visual-composer": "*",
+    "josedu90/mega_main_menu": "*",
+    "josedu90/sportspress-pro": "*",
+    "josedu90/tinymce-advanced": "*",
+    "josedu90/stm-gdpr-compliance": "*",
+    "josedu90/ts-visual-composer-extend": "*",
+    "josedu90/revslider": "*",
+    "josedu90/js_composer": "*"
+
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.4.2",
+    "roave/security-advisories": "dev-master"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "installer-paths": {
+      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
+      "web/app/plugins/{$name}/": ["type:wordpress-plugin"],
+      "web/app/themes/{$name}/": ["type:wordpress-theme"]
+    },
+    "wordpress-install-dir": "web/wp"
+  },
+  "scripts": {
+    "post-root-package-install": [
+      "php -r \"copy('.env.example', '.env');\""
+    ],
+    "test": [
+      "phpcs"
+    ]
+  }
+}
