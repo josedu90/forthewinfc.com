@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b0e05e813f25fea1feafd2b48072b927",
+    "content-hash": "43797a1be94ec30d49f9e84aaddab5ca",
     "packages": [
         {
             "name": "composer/installers",
@@ -206,6 +206,15 @@
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/josedu90/stm-gdpr-compliance/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/suspended-lists-for-sportspress",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/suspended-lists-for-sportspress/archive/master.zip"
             },
             "type": "wordpress-plugin"
         },
