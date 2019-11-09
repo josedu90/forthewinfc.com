@@ -230,20 +230,6 @@
    },
 
 
-                  {
-     "type": "package",
-     "package":{
-      "name": "josedu90/suspended-lists-for-sportspress",
-      "type": "wordpress-plugin",
-      "version":"0.6.4",
-      "dist":{
-      "type": "zip",
-      "url": "https://github.com/josedu90/suspended-lists-for-sportspress/archive/master.zip"
-
-      }
-     }
-     
-   },
 
 
 
@@ -288,7 +274,7 @@
     "josedu90/stm-gdpr-compliance": "*",
     "josedu90/ts-visual-composer-extend": "*",
     "josedu90/revslider": "*",
-    "josedu90/suspended-lists-for-sportspress": "*",
+    
     "josedu90/sportspress-for-soccer": "*",
     "josedu90/js_composer": "*"
 
