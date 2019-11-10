@@ -244,6 +244,22 @@
      
    },
 
+                     {
+     "type": "package",
+     "package":{
+      "name": "josedu90/sportspress",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/sportspress/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+
 
 
 
@@ -291,7 +307,9 @@
     "josedu90/revslider": "*",
     "josedu90/suspended-lists-for-sportspress": "*",
     "josedu90/sportspress-for-soccer": "*",
+    "josedu90/sportspress": "*",
     "josedu90/js_composer": "*"
+    
 
   },
   "require-dev": {

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "43797a1be94ec30d49f9e84aaddab5ca",
+    "content-hash": "c6693e507342250f98fc6d7540362df6",
     "packages": [
         {
             "name": "composer/installers",
@@ -179,6 +179,15 @@
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/josedu90/revslider/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/sportspress",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/sportspress/archive/master.zip"
             },
             "type": "wordpress-plugin"
         },
