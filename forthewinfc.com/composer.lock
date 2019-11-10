@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c6693e507342250f98fc6d7540362df6",
+    "content-hash": "b5b54cd4f440a78fc6fd54e996581838",
     "packages": [
         {
             "name": "composer/installers",
@@ -183,15 +183,6 @@
             "type": "wordpress-plugin"
         },
         {
-            "name": "josedu90/sportspress",
-            "version": "0.6.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/josedu90/sportspress/archive/master.zip"
-            },
-            "type": "wordpress-plugin"
-        },
-        {
             "name": "josedu90/sportspress-for-soccer",
             "version": "0.6.4",
             "dist": {
@@ -201,29 +192,11 @@
             "type": "wordpress-plugin"
         },
         {
-            "name": "josedu90/sportspress-pro",
-            "version": "0.6.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/josedu90/sportspress-pro/archive/master.zip"
-            },
-            "type": "wordpress-plugin"
-        },
-        {
             "name": "josedu90/stm-gdpr-compliance",
             "version": "0.6.4",
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/josedu90/stm-gdpr-compliance/archive/master.zip"
-            },
-            "type": "wordpress-plugin"
-        },
-        {
-            "name": "josedu90/suspended-lists-for-sportspress",
-            "version": "0.6.4",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/josedu90/suspended-lists-for-sportspress/archive/master.zip"
             },
             "type": "wordpress-plugin"
         },
