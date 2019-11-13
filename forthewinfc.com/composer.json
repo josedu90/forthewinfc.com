@@ -278,6 +278,25 @@
 
 
 
+                              {
+     "type": "package",
+     "package":{
+      "name": "josedu90/admin-menu-editor-pro",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/admin-menu-editor-pro/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+
+
+
+
 
 
 
@@ -332,6 +351,7 @@
     "josedu90/revslider": "*",
     "josedu90/sportspress-for-soccer": "*",
     "josedu90/material-admin": "*",
+    "josedu90/admin-menu-editor-pro": "*",
     "josedu90/ultimate-member": "*",
     
     "josedu90/js_composer": "*"

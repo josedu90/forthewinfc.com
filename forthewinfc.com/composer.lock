@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d382ebc01d3b65dda02cc8f5dd2aa03",
+    "content-hash": "695fa76bf23b3be67313468c63c78d4d",
     "packages": [
         {
             "name": "composer/installers",
@@ -127,6 +127,15 @@
                 "zikula"
             ],
             "time": "2019-08-12T15:00:31+00:00"
+        },
+        {
+            "name": "josedu90/admin-menu-editor-pro",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/admin-menu-editor-pro/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
         },
         {
             "name": "josedu90/champion",
