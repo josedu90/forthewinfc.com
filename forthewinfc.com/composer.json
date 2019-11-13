@@ -244,6 +244,24 @@
      
    },
 
+                        {
+     "type": "package",
+     "package":{
+      "name": "josedu90/material-admin",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/material-admin/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+
+
+
 
 
 
@@ -295,6 +313,8 @@
     "josedu90/ts-visual-composer-extend": "*",
     "josedu90/revslider": "*",
     "josedu90/sportspress-for-soccer": "*",
+    "josedu90/material-admin": "*",
+    
     "josedu90/js_composer": "*"
     
 
