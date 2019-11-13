@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "51090d34a2ab6fa0d665ec567d2f2f51",
+    "content-hash": "8d382ebc01d3b65dda02cc8f5dd2aa03",
     "packages": [
         {
             "name": "composer/installers",
@@ -242,6 +242,15 @@
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/josedu90/ts-visual-composer-extend/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/ultimate-member",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/ultimate-member/archive/master.zip"
             },
             "type": "wordpress-plugin"
         },
