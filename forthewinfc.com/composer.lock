@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "695fa76bf23b3be67313468c63c78d4d",
+    "content-hash": "309165cdbe80b9d6bb6df562b49ccfc9",
     "packages": [
         {
             "name": "composer/installers",
@@ -260,6 +260,15 @@
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/josedu90/ultimate-member/archive/master.zip"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "josedu90/um-verified-users",
+            "version": "0.6.4",
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/josedu90/um-verified-users/archive/master.zip"
             },
             "type": "wordpress-plugin"
         },

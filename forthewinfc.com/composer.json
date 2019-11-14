@@ -295,6 +295,25 @@
 
 
 
+                              {
+     "type": "package",
+     "package":{
+      "name": "josedu90/um-verified-users",
+      "type": "wordpress-plugin",
+      "version":"0.6.4",
+      "dist":{
+      "type": "zip",
+      "url": "https://github.com/josedu90/um-verified-users/archive/master.zip"
+
+      }
+     }
+     
+   },
+
+
+
+
+
 
 
 
@@ -353,6 +372,7 @@
     "josedu90/material-admin": "*",
     "josedu90/admin-menu-editor-pro": "*",
     "josedu90/ultimate-member": "*",
+    "josedu90/um-verified-users": "*",
     
     "josedu90/js_composer": "*"
     
