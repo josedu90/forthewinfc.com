@@ -7,7 +7,7 @@
 DEVDIR="web/app/uploads/"
 DEVSITE="http://forthewinfc.test"
 
-PRODDIR="web@165.22.40.144:/srv/www/forthewinfc.com/shared/uploads/"
+PRODDIR="web@68.183.97.242:/srv/www/forthewinfc.com/shared/uploads/"
 PRODSITE="https://josedudev.xyz"
 
 STAGDIR="web@staging.forthewinfc.com:/srv/www/forthewinfc.com/shared/uploads/"
